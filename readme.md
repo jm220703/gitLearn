@@ -1,5 +1,5 @@
->> Step by step
 > Git
+>> Step by step
 1. Find a project you want to contribute to.
 2. Fork it.
 3. Clone it to your local system.
